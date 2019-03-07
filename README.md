@@ -9,7 +9,7 @@ Dion Jamel Thompson
 
 Download from this link: https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-web-community-8.0.13.0.msi
 
-1. Accept License Agreement
+1. Accept License Agreement.
 2. Select **Server only** from the install list options and proceed with installation.
 3. Select **Standalone MySQL Server / Classic MySQL Replication** from Group Replication.
 4. Leave **Type and Networking** as is.
