@@ -25,3 +25,7 @@ To start the service, open a command prompt in *Adminstrator* mode and enter:
 ```
 net start mysql80
 ```
+
+How to run:
+1. Do not create module-info.javafile
+2. Run mainGUI.java in GUI folder
