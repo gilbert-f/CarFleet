@@ -1,4 +1,10 @@
-# Team GADD CSS Project
+# Team GADD Final Project
+
+### In collaboration with:
+Andrey Chebotarev, 
+Daniel Doran, 
+Gilbert Febrianto, 
+Dion Jamel Thompson
 
 
 Download from this link: https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-web-community-8.0.13.0.msi
