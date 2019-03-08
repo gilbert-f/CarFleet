@@ -28,6 +28,9 @@ net start mysql80
 
 How to run:
 1. Do not create module-info.javafile
-2. Run MainGUI.java in gui folder
+
+2. Download and attach the appropriate libraries
+
+3. Run MainGUI.java in gui folder
 
 Note: Can't run app since database is terminated.
